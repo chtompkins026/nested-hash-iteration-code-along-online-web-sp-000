@@ -15,5 +15,10 @@ require 'pry'
   # }
   
 def remove_strawberry(contacts)
-
+  contacts.each do |name, details| 
+    details.each do |attribute,data| 
+      if attribute == 
+    end 
+  end 
+    
 end
